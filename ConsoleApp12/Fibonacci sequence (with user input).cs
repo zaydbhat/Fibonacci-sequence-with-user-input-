@@ -33,6 +33,7 @@ namespace ConsoleApp12
                 second_term = next_term;
                 x++;
             }
+            // ye galat kiya hai
         }
     }
 }
