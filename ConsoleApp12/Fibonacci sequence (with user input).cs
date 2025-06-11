@@ -34,6 +34,8 @@ namespace ConsoleApp12
                 x++;
             }
             // ye galat kiya hai
+            // ye theek hai
+            //try
         }
     }
 }
